@@ -1,0 +1,14 @@
+Idea 1: Drama impact
+During the years, Big brewing companies have been the center of multiple dramas. Dramas regarding the quality of their products, marketing mistakes or even human abuses. The idea of this project is to find several events of different categories and at different scales that happened during the timespan 2001 - 2017 and compare them to the rating of the corresponding period in order to find how much a bias the actuality is to the rating of the products.
+This project will require scavenging the internet for big events that happened in the world of brewery in order to construct a dataset of dates, locations and breweries to compare with the original dataset.
+Another interesting analysis would be the one of sales drops/rises of the corresponding beers after the dramas happened. This would also requires to find additional dataset of the timeline of sales of the implicated compagnies.
+
+Idea 2: Corona vs Corona
+The recent pandemic that the world faced had a big impact on the sells of almost all products, caused mainly by shipping, sells and usage restrictions. However, there is one product in particular that suffered greatly due to its name. The famous Mexican beer called “Corona”.
+In this project, we analyze the evolution of the sells and reviews during the heavy period of the covid-19 pandemic (2020-2022). This will require the analysis of 3 datasets: The rating of the beer, the sells of the beer and the evolution of the disease.
+We will then compare those datasets between them in order to see how they are correlated and how those correlations evolved with time (from pandemic spike to pandemic spike).
+
+Idea 3: bitter is better
+For a very long time, beers have been seen has a this yellow-ish, gazy and refreshing beverage with very small changes in taste, bitterness and strongness. However, those last decades have seen a big rise in the interest for a larger spectrum of brewing techniques.
+This project will consist in the definition of different categories based on multiple parameters (e.g. aroma, appearance, style, keywords in rating, ...). Once those categories are well defined, an analysis is then to be made about the evolution over time of their popularity based on different quality indices.
+Another interesting study would be to compare the evolution of the price and sells of a sub-selection of beers for each categories. This task will however require to scavenge the internet for corresponding dataset.
