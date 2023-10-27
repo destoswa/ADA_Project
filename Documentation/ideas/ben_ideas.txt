@@ -1,0 +1,46 @@
+Overall, a good set of proposals. I’d recommend pursuing the second research question you present in idea #2. 
+
+Idea 1: Original idea, but not very clearly presented. It is not clear how you plan to go from “beer types, 
+breweries and beers that have received multiple reviews from the same individual” to analyzing the “bolster[ing] or 
+tarnish[ing of] a brand's reputation.” How do you intend to measure “the perception of a brand, a brewery, or even a specific type of beer?” 
+What metrics are you using? Will you employ an external dataset? I would also suggest you pick one (brand, brewery or beer type) and focus on 
+that one for your analysis to start with, and later expand to consider the others if feasible. 
+
+Idea 2: To me it looks like there are two different research questions in this idea. For the first one, interplay between number of reviews and 
+overall ratings, is not bad but not necessarily easy to pursue with rigor. As you could read in one of the related papers, 
+https://dlab.epfl.ch/people/west/pub/Lederrey-West_WWW-18.pdf , past reviews do have an impact on subsequent ones. 
+How would you take this into account? With regards to the second question, does the number of beers produced by a brewery influence its overall rating, 
+this is a more creative and original idea. I like it! You will want to flesh out the analysis a bit more than just ratings of their beers generally. 
+Perhaps you can look at user segments, grouped based on geography – is the brewery catering to a specific audience, at least geographically? Etc. 
+
+Idea 3: Not a bad idea, but I’m not sure how much analysis you can get out of it. Comparing review length and sentiment against the rating is a 
+very simple analysis. If you want to pursue this idea, I’d recommend you develop it further and find other analyses you would like to run on this dataset. 
+Your project mentor throughout the semester will be Beatriz Borges : beatriz.borges@epfl.ch. 
+
+For future discussions specific to your P2 and P3 deliverables, you are encouraged to be in touch with your mentor.
+
+
+
+1st Idea: The Power of an Individual or Group of Users. One compelling question that arises in the world of online reviews is whether a single user 
+or a select group of users can significantly influence the perception of a brand, a brewery, or even a specific type of beer. 
+Can one person's review either bolster or tarnish a brand's reputation? Are there dedicated fans or vehement haters who can sway the collective opinion? 
+To investigate this, our study will examine beer types, breweries and beers that have received multiple reviews from the same individual. 
+We must also consider the significance of brands with very few reviews, as they are inherently reliant on the limited ratings they accumulate. 
+Uncovering the dynamics of the individual user's impact on the beer industry's reputation will be a key focus. 
+
+2nd Idea: The Interplay of Review Quantity and Ratings. The second intriguing idea for analysis is exploring the correlation between 
+the number of reviews and ratings and how these factors relate to the overall rating. In instances with only a handful of reviews or ratings, 
+the average rating can be highly susceptible to extreme opinions, skewing the perception of the product. Conversely, for products with numerous reviews, 
+we must investigate the distribution patterns that emerge. Does the sheer quantity of reviews create a more reliable or polarized rating system? 
+Additionally, we aim to scrutinize whether the number of beers produced by a brewery influences their overall rating. 
+Do breweries focusing on a limited selection of beers receive better ratings, possibly due to product quality, or worse ratings due to a mismatch 
+with the general public's taste? 
+
+3rd Idea: The Anatomy of Reviews and Their Impact on Ratings. The third idea delves into the structure and sentiment of reviews and their role 
+in shaping product ratings. This analysis will examine the relationship between the length of a review and the accompanying rating. 
+Are longer reviews indicative of extreme opinions, whether positive or negative, and do shorter reviews represent more moderate views? 
+Additionally, by employing sentiment analysis tools, we aim to uncover a possible connection between the tone of a review and the associated rating. 
+Can we quantify the positivity or negativity of reviews and examine how this sentiment influences overall ratings? Conversely, we'll evaluate 
+the effectiveness of sentiment analysis tools on this dataset and assess whether the phrasing style of the reviews aligns with the tools' predictions. 
+Ultimately, we seek to determine whether reviews serve as reliable indicators of product quality and whether sentiment analysis can enhance our 
+understanding of user ratings. 
