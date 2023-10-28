@@ -1,0 +1,5 @@
+My first idea is to analyse the evolutions of beer trends around the world and across time. The goal being to discover wheter trends evolve in parralel, independently or maybe they start somewhere and follow a certain spreading path around the world. This could be helpful to marketing teams that wish to predict the future trends in their world region.
+
+My second idea would be to analyse wether the number of reviews has an impact with the content of the reviews (do people rate differently beer coming from large companies). This would likely require another dataset to get the info of the quantity of beer sold and the prices of said beer.
+
+My third idea would be to find i high beer consuption event (like the fest of beer) has an impact of beer reviews (quantity of reviews, rating) or if we can find that those event are trend breakers/breeders. This would need to find a list of big beer, this could be done either with another dataset or by finding the impact of one big known event and trying to find other such whenever we find the same patterns.
