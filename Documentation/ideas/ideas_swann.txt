@@ -12,3 +12,15 @@ Idea 3: bitter is better
 For a very long time, beers have been seen has a this yellow-ish, gazy and refreshing beverage with very small changes in taste, bitterness and strongness. However, those last decades have seen a big rise in the interest for a larger spectrum of brewing techniques.
 This project will consist in the definition of different categories based on multiple parameters (e.g. aroma, appearance, style, keywords in rating, ...). Once those categories are well defined, an analysis is then to be made about the evolution over time of their popularity based on different quality indices.
 Another interesting study would be to compare the evolution of the price and sells of a sub-selection of beers for each categories. This task will however require to scavenge the internet for corresponding dataset.
+
+
+Comment from author:
+While you present your ideas clearly and they are original, they all reference external datasets. I would ask you to consider if this is a direction you really wish to pursue. I suggest you develop idea #3 further, as it is the one most indepent from external-data from the 3 you propose. 
+
+Idea 1: An interesting proposal. The main obstacle in the implementation of this idea is what external data source you would reference for these events, as you also identify. While you could use web scraping, this can unfortunately easily turn into a data cleaning project that would not allow you to do proper data analysis and thus hurt you in the final evaluation. (Your main contribution would be more the creation of a dataset, rather than the analysis of data itself.) 
+
+Idea 2: The dataset provided only goes from 2001-2017. What are the 3 datasets you mention? This idea needs to be further elaborated to be feasible. The idea itself is interesting however, just impossible to research given the data you have been given. (And while you identify what you would need to conduct it, you don’t actually suggest or provide sources for these datasets.) 
+
+Idea 3: What are the different quality indices you intend to track? Same comment as #1 with regards to employing external datasets, unless you already have something in mind or already found a dataset with this information. The analysis you propose might be a bit simplistic. Consider other aspects you could look into: besides evolution in time you could also tack between-years change and seasonal-change, segment according to geography of users and see if different trends emerge, etc. 
+
+Your project mentor throughout the semester will be Beatriz Borges : beatriz.borges@epfl.ch. For future discussions specific to your P2 and P3 deliverables, you are encouraged to be in touch with your mentor.
