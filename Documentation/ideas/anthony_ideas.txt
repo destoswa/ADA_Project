@@ -1,0 +1,8 @@
+DISCLAIMER : I have not found my ideas. I just sent it in the form and don't have any copy of it.
+
+Here is what I remember in short terms
+
+1. Is length of review related to its score ?
+2. Can we predict the score (all aspects scores) of a beer based on its review ?
+
+3. Don't remember sorry ^^'
