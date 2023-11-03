@@ -1,0 +1,18 @@
+Chapter 1 :	Reviews analysis
+	- Ben - idea 2 : relationship between the number of reviews and the distribution in the rating.
+	- Ben - idea 3 : relationship between the length of comment and general orientation of rating. implying sentiment analysis.
+	- Xingchen - idea 2 : rating the reviewers based on the number/quality/type/... of their reviews.
+
+
+Chapter 2:	Events 
+	- Mathieu - idea 1 : Find if there is regular paterns (spikes) in the reviews regarding different features: region, type of beer, brewery, ...
+	- Mathieu - idea 3 : Looking if beer events have an influence on the reviews.
+	- Swann - idea 1 : Looking if dramas regarding the breweries have an impact on the reviews.
+
+
+Chapter 3:	Brewery expertise
+	- Xingchen - idea 3 : Identifying Beer Specializations Across Breweries, coutries, timeline.
+	
+	
+(Chapter 4: Corruption)
+	- Ben - extra idea : The webiste "ratebeer.com" has been bought by AB InBev in 2019. We could collect a more ressent dataset and compare if this had an influence on the brands owned by AB.
