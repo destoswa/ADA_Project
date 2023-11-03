@@ -3,6 +3,13 @@ Chapter 1 :	Reviews analysis
 	- Ben - idea 3 : relationship between the length of comment and general orientation of rating. implying sentiment analysis.
 	- Xingchen - idea 2 : rating the reviewers based on the number/quality/type/... of their reviews.
 
+Our proposition:
+
+At first, we want to find out the distribution(s) of the ratings. Are there different distributions between ratings and different scales (10 ratings, 1000 ratings, etc) or breweries, beer-types, location, etc. For example, we can find out the rating distribution for different breweries and use these data to evaluate the popularity of these breweries.
+In order to give reviewers a score to measure the reliability of their ratings and reviews, we would like to find the users whose rating distribution can best represent most of the information from a global scale distribution, for that we need to define a measure of “distance”, and we will assign higher reliability score to these users. This would also allow us to reduce the dataset and keep most of the information.
+For the comments we can use sentiment analysis, TF-IDF methods to assign labels to different beers and breweries.
+
+
 
 Chapter 2:	Events 
 	- Mathieu - idea 1 : Find if there is regular paterns (spikes) in the reviews regarding different features: region, type of beer, brewery, ...
